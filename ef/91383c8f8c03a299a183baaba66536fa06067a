@@ -1,0 +1,23 @@
+src/commands/upgrade.rs
+  319a91568dbee0de 445-451
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.6-bit.1+fix-upgrade-tmp-dir.5171afb",
+  "base_commit_sha": "ef91383c8f8c03a299a183baaba66536fa06067a",
+  "prompts": {
+    "319a91568dbee0de": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4972ef31-0ddc-46c2-973d-b6a965e4bf25",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "txf0096 <329772643@qq.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 2,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    }
+  }
+}
