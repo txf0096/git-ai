@@ -1,0 +1,25 @@
+src/metrics/db.rs
+  a181f99bb3ebae2b 55-58
+src/authorship/internal_db.rs
+  a181f99bb3ebae2b 293-297,300
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.6-bit.1+fix-upgrade-tmp-dir.5171afb",
+  "base_commit_sha": "a3ad1eb0dbf26a5660d4bb95b80505e387a80b75",
+  "prompts": {
+    "a181f99bb3ebae2b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d0f1664d-21c0-4398-b520-f1e83a6d92c8",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "txf0096 <329772643@qq.com>",
+      "messages": [],
+      "total_additions": 10,
+      "total_deletions": 8,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    }
+  }
+}
